@@ -1,0 +1,48 @@
+.wrap{
+    background-color: lightgray;
+    color: red;
+}
+.menu{
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+    background-color: gray;
+}
+.menu button{
+    width: 50px;
+    height: 50px;
+    padding: 0;
+    color: red;
+    font-size: 30px;
+}
+button#difficulty{
+    width: auto;
+    padding-right: 0.3em;
+    padding-left: 0.3em;
+}
+.play{
+    width: 600px;
+    padding: 10px;
+    font-size: 50px;
+    background-color: gray;
+}
+.mine{
+    width: 2em;
+    float: left;
+    margin: 10px;
+    background-color: white;
+}
+.timer{
+    width: 2em;
+    margin: 10px;
+    margin-left: 490px;
+    background-color: white;
+    text-align: center;
+}
+.board{
+    width: 500px;
+    height: 500px;
+    margin: 50px;
+    margin-top: 20px;
+    background-color: lightgray;
+}
